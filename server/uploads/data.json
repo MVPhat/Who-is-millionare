@@ -1,0 +1,266 @@
+[
+  {
+    "question": "Thực hiện yêu cầu đề bài",
+    "solution": 1,
+    "type": "image",
+    "ans": ["A8 / 8A", "A8 / 8A", "A8 / 8A", "A8 / 8A"],
+    "url": "TCTT1_BK1_20s"
+  },
+  {
+    "question": "Thực hiện yêu cầu của đề bài",
+    "solution": 1,
+    "type": "image",
+    "ans": [
+      " 1A - 2B - 3D - 4C (ABDC)",
+      " 1A - 2B - 3D - 4C (ABDC)",
+      " 1A - 2B - 3D - 4C (ABDC)",
+      " 1A - 2B - 3D - 4C (ABDC)"
+    ],
+    "url": "TCTT2_BK1_30s"
+  },
+  {
+    "question": "Bạn hãy trả lời câu hỏi sau của ban tổ chức Cuộc Chiến Vương Quyền. (Trả lời đầy đủ đẳng thức)",
+    "solution": 1,
+    "type": "image",
+    "ans": [
+      "9*8=67+5 (=72) hoặc 9*8 = 65+7 (=72)\n",
+      "9*8=67+5 (=72) hoặc 9*8 = 65+7 (=72)\n",
+      "9*8=67+5 (=72) hoặc 9*8 = 65+7 (=72)\n",
+      "9*8=67+5 (=72) hoặc 9*8 = 65+7 (=72)\n"
+    ],
+    "url": "TCTT4_BK1_50s"
+  },
+  {
+    "question": "Cho dãy số 2 3 7. Hỏi trung vị của dãy số là bao nhiêu?",
+    "ans": [" 3", " 3", " 3", " 3"],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  },
+  {
+    "question": "Vào ngày sinh nhật, Khánh được bố mẹ tặng một chiếc điện thoại iPhone 14 Pro Max. Khi cài đặt mật khẩu, Khánh muốn đặt một dãy số gồm 6 chữ số đôi một khác nhau. Hỏi Khánh có bao nhiêu cách để tạo mật khẩu?",
+    "ans": ["151200", "151200", "151200", "151200"],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  },
+  {
+    "question": "Mặt Trời truyền năng lượng xuống Trái đất theo hình thức truyền nhiệt nào?",
+    "ans": [
+      " Bức xạ nhiệt/ Bức xạ",
+      " Bức xạ nhiệt/ Bức xạ",
+      " Bức xạ nhiệt/ Bức xạ",
+      " Bức xạ nhiệt/ Bức xạ"
+    ],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  },
+  {
+    "question": "Trong dao động điều hòa, cứ mỗi chu kì dao động của vật, có bao nhiêu thời điểm thế năng bằng động năng?",
+    "ans": ["4", "4", "4", "4"],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  },
+  {
+    "question": "Được biết, điện Panthéon - nơi chôn cất và tôn vinh những nhân vật lịch sử, những người đã làm rạng danh cho nước Pháp trên nhiều lĩnh vực, được xây dựng từ nửa cuối thế kỷ XVIII. Tính tới hiện tại (tháng 04/2023), có 6 người phụ nữ đã vinh dự được lưu danh tại đây. Trong đó, có một nhà vật lý và hóa học nổi tiếng người Pháp gốc Ba Lan được tôn vinh vì những cống hiến và thành tựu to lớn cho khoa học của bà. Hãy cho biết, bà là ai?",
+    "ans": [
+      "Marie Curie (người phụ nữ duy nhất được trao hai giải thưởng Nobel)",
+      "Marie Curie (người phụ nữ duy nhất được trao hai giải thưởng Nobel)",
+      "Marie Curie (người phụ nữ duy nhất được trao hai giải thưởng Nobel)",
+      "Marie Curie (người phụ nữ duy nhất được trao hai giải thưởng Nobel)"
+    ],
+    "solution": 1,
+    "type": "image",
+    "url": "TPCN_BK1_De_Hoa"
+  },
+  {
+    "question": "Trong quy trình Haber-Bosch, amoniac được sản xuất với nguyên liệu là gì?",
+    "ans": [
+      "Ni-tơ và Hidro (N2 và H2)/ Nitrogen và Hydrogen",
+      "Ni-tơ và Hidro (N2 và H2)/ Nitrogen và Hydrogen",
+      "Ni-tơ và Hidro (N2 và H2)/ Nitrogen và Hydrogen",
+      "Ni-tơ và Hidro (N2 và H2)/ Nitrogen và Hydrogen"
+    ],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  },
+  {
+    "question": "Darwin đã nhận xét loài vật nào là \"chiếc cày sống\", cày đất trước con người rất lâu và còn cày đất mãi mãi?",
+    "ans": ["Giun đất", "Giun đất", "Giun đất", "Giun đất"],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  },
+  {
+    "question": "Con người có bao nhiêu đôi xương sườn?",
+    "ans": ["12", "12", "12", "12"],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  },
+  {
+    "question": "Biện pháp tu từ nào được sử dụng trong câu tục ngữ: \"Chớ thấy sóng cả mà ngã tay chèo\"?",
+    "ans": ["Ẩn dụ", "Ẩn dụ", "Ẩn dụ", "Ẩn dụ"],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  },
+  {
+    "question": "Tập thơ nào đã mang đến cho Tagore vinh dự \"Người châu Á đầu tiên được nhận giải thưởng Nobel về văn học năm 1913\"?",
+    "ans": [
+      "Thơ Dâng (Gitanjali)",
+      "Thơ Dâng (Gitanjali)",
+      "Thơ Dâng (Gitanjali)",
+      "Thơ Dâng (Gitanjali)"
+    ],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  },
+  {
+    "question": " “Ả Trần” là tên gọi mang hàm ý chế giễu hành động theo giặc cầu vinh của nhân vật lịch sử nào?",
+    "ans": ["Trần Ích Tắc", "Trần Ích Tắc", "Trần Ích Tắc", "Trần Ích Tắc"],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  },
+  {
+    "question": "Trong 7 người đầu tiên vinh dự được trao tặng danh hiệu Anh hùng thi đua ái quốc theo Sắc lệnh số 107/SL ngày 10/8/1952 của Chủ tịch nước Việt Nam Dân chủ Cộng hòa, có 3 Anh hùng lao động là Ngô Gia Khảm, Hoàng Hanh và người còn lại là ai?",
+    "ans": [
+      "Trần Đại Nghĩa",
+      "Trần Đại Nghĩa",
+      "Trần Đại Nghĩa",
+      "Trần Đại Nghĩa"
+    ],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  },
+  {
+    "question": "MERCOSUR là khối thương mại mậu dịch tự do giữa các nước thuộc khu vực nào?\n",
+    "ans": [
+      "Nam Mỹ (Mỹ Latin)",
+      "Nam Mỹ (Mỹ Latin)",
+      "Nam Mỹ (Mỹ Latin)",
+      "Nam Mỹ (Mỹ Latin)"
+    ],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  },
+  {
+    "question": "2 quốc gia ở Nam Mỹ không giáp biển là hai nước nào?",
+    "ans": [
+      "Paraguay và Bolivia.",
+      "Paraguay và Bolivia.",
+      "Paraguay và Bolivia.",
+      "Paraguay và Bolivia."
+    ],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  },
+  {
+    "question": "Trong một trận đấu bóng đá, khi lập được thành tích nào, cầu thủ sẽ được quyền mang quả bóng trong trận đấu về nhà?",
+    "ans": [
+      "Hat-trick (Ghi 3 bàn thắng) / Ghi từ 3 bàn thắng trở lên\n",
+      "Hat-trick (Ghi 3 bàn thắng) / Ghi từ 3 bàn thắng trở lên\n",
+      "Hat-trick (Ghi 3 bàn thắng) / Ghi từ 3 bàn thắng trở lên\n",
+      "Hat-trick (Ghi 3 bàn thắng) / Ghi từ 3 bàn thắng trở lên\n"
+    ],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  },
+  {
+    "question": "Ở World Cup 2006, truyền thông Anh đã gọi 4 cầu thủ Brazil là “Magic quartet” (Bộ tứ huyền ảo) bao gồm Kaka, Ronaldinho và 2 cầu thủ nào nữa?\n",
+    "ans": [
+      "Ronaldo (Ronaldo de Lima) và Adriano (Adriano Ribeiro)",
+      "Ronaldo (Ronaldo de Lima) và Adriano (Adriano Ribeiro)",
+      "Ronaldo (Ronaldo de Lima) và Adriano (Adriano Ribeiro)",
+      "Ronaldo (Ronaldo de Lima) và Adriano (Adriano Ribeiro)"
+    ],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  },
+  {
+    "question": "Tháp cổ Bình Thạnh và tháp cổ Chót Mạt là hai tòa tháp cổ nghìn tuổi nổi tiếng ở Tây Ninh. Kiến trúc của hai tháp cổ này tỏ rõ rằng chúng đều cùng thuộc về nền văn hóa nào?",
+    "ans": ["Óc Eo", "Óc Eo", "Óc Eo", "Óc Eo"],
+    "solution": 1,
+    "type": "image",
+    "url": "TPCN_BK1_De_NgheThuat"
+  },
+  {
+    "question": "Trào lưu kiến trúc nào có đặc trưng là tạo sự bất cân đối, có vẻ lộn xộn, bất hài hòa gây nên cảm giác bất ổn định cho người xem, nhưng cũng gây ra nhiều thích thú vì sự mới lạ?",
+    "ans": [
+      "Kiến trúc giải tỏa kết cấu",
+      "Kiến trúc giải tỏa kết cấu",
+      "Kiến trúc giải tỏa kết cấu",
+      "Kiến trúc giải tỏa kết cấu"
+    ],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  },
+  {
+    "question": "Tháng thứ 9 trong lịch Hồi giáo, cũng là tháng ăn chay và tu dưỡng bản thân có tên gọi là gì?",
+    "ans": ["Ramadan", "Ramadan", "Ramadan", "Ramadan"],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  },
+  {
+    "question": "Trên xã đảo Song Tử Tây thuộc huyện Trường Sa (Khánh Hòa) có tượng đài của vị anh hùng nào?",
+    "ans": ["Trần Hưng Đạo", "Trần Hưng Đạo", "Trần Hưng Đạo", "Trần Hưng Đạo"],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  },
+  {
+    "question": "Theo các quy định hiện hành, người đi xe đạp được điều khiển phương tiện khi nồng độ cồn trong máu là bao nhiêu?",
+    "ans": ["0", "0", "0", "0"],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  },
+  {
+    "question": "Thiên hà xoắn ốc gần Dải Ngân Hà nhất là thiên hà nào?",
+    "ans": [
+      "Thiên hà Tiên Nữ/ Thiên hà Andromeda",
+      "Thiên hà Tiên Nữ/ Thiên hà Andromeda",
+      "Thiên hà Tiên Nữ/ Thiên hà Andromeda",
+      "Thiên hà Tiên Nữ/ Thiên hà Andromeda"
+    ],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  },
+  {
+    "question": "What do you call the yellow part inside an egg?",
+    "ans": [
+      "Yolk (cách đọc: /jəʊk/)",
+      "Yolk (cách đọc: /jəʊk/)",
+      "Yolk (cách đọc: /jəʊk/)",
+      "Yolk (cách đọc: /jəʊk/)"
+    ],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  },
+  {
+    "question": "According to the 1982 United Nations Convention on the Law of the Sea, EEZ is the English abbreviation of which specific type of sea area is associated with each coastal state?",
+    "ans": [
+      "Exclusive Economic Zone (Vùng đặc quyền kinh tế)",
+      "Exclusive Economic Zone (Vùng đặc quyền kinh tế)",
+      "Exclusive Economic Zone (Vùng đặc quyền kinh tế)",
+      "Exclusive Economic Zone (Vùng đặc quyền kinh tế)"
+    ],
+    "solution": 1,
+    "type": "text",
+    "url": null
+  }
+]

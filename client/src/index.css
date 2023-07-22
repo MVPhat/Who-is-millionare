@@ -1,0 +1,71 @@
+body {
+  margin: 0;
+  /* background-color: #c4c4c4; */
+}
+
+@keyframes spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+form {
+  width: inherit;
+  height: inherit;
+}
+
+p {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+
+div {
+  box-shadow: -1px 0px 1px #bfadcb, 0px 1px 1px #a4809d, -2px 1px 1px #bfadcb,
+    -1px 2px 1px #a4809d, -3px 2px 1px #bfadcb, -2px 3px 1px #a4809d,
+    -4px 3px 1px #bfadcb, -3px 4px 1px #a4809d, -5px 4px 1px #bfadcb,
+    -4px 5px 1px #a4809d, -6px 5px 1px #bfadcb, -6px 7px 0 rgb(0 0 0 / 5%),
+    -5px 8px 0 rgb(0 0 0 / 5%), -3px 9px 0 rgb(0 0 0 / 4%),
+    -2px 10px 0 rgb(0 0 0 / 4%), -1px 11px 0 rgb(0 0 0 / 3%),
+    0px 12px 0 rgb(0 0 0 / 3%), 1px 13px 0 rgb(0 0 0 / 2%),
+    2px 14px 0 rgb(0 0 0 / 2%), 3px 15px 0 rgb(0 0 0 / 1%),
+    4px 16px 0 rgb(0 0 0 / 1%), 5px 17px 0 rgb(0 0 0 / 1%),
+    6px 18px 0 rgb(0 0 0 / 1%), inset 0 4px 5px -2px rgb(255 255 255 / 50%),
+    inset 0 1px 0 0 rgb(0 0 0 / 30%);
+}
+
+.background {
+  filter: blur(100px);
+  -webkit-filter: blur(100px);
+  background-color: #23345a;
+  width: 100vw;
+  height: 100vh;
+  z-index: -1;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.wave {
+  width: 1000px;
+  height: 1025px;
+  position: absolute;
+  top: -25%;
+  left: 50%;
+  margin-left: -500px;
+  margin-top: -500px;
+  border-radius: 35%;
+  background: rgba(255, 255, 255, 0.75);
+  animation: wave 15s infinite linear;
+}
+
+@keyframes wave {
+  from {
+    transform: rotate(0deg);
+  }
+  from {
+    transform: rotate(360deg);
+  }
+}

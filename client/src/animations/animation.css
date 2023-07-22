@@ -1,0 +1,24 @@
+/* 
+    animation
+    example: bounce animation 
+        style = "animation: 1s ease 0s 1 normal none running bounce"
+*/
+
+@import "./bounce.css";
+@import "./fade.css";
+@import "./flash.css";
+@import "./flip.css";
+@import "./headShake.css";
+@import "./hinge.css";
+@import "./jello.css";
+@import "./lightSpeed.css";
+@import "./pulse.css";
+@import "./roll.css";
+@import "./rotate.css";
+@import "./rubberBand.css";
+@import "./shake.css";
+@import "./slide.css";
+@import "./swing.css";
+@import "./tada.css";
+@import "./wobble.css";
+@import "./zoom.css";
